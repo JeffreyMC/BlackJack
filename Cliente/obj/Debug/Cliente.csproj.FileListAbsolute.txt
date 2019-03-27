@@ -1,0 +1,9 @@
+c:\users\jeffrey\documents\visual studio 2015\Projects\Proyecto\Cliente\bin\Debug\Cliente.exe.config
+c:\users\jeffrey\documents\visual studio 2015\Projects\Proyecto\Cliente\bin\Debug\Cliente.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\Proyecto\Cliente\bin\Debug\Cliente.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\Proyecto\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+c:\users\jeffrey\documents\visual studio 2015\Projects\Proyecto\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+c:\users\jeffrey\documents\visual studio 2015\Projects\Proyecto\Cliente\obj\Debug\Cliente.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\Proyecto\Cliente\obj\Debug\Cliente.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\Proyecto\Cliente\obj\Debug\Cliente.Juego.resources
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Proyecto\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache

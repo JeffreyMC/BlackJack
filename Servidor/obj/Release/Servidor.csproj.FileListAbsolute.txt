@@ -1,0 +1,6 @@
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Proyecto\Servidor\bin\Release\Servidor.exe.config
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Proyecto\Servidor\bin\Release\Servidor.exe
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Proyecto\Servidor\bin\Release\Servidor.pdb
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Proyecto\Servidor\obj\Release\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Proyecto\Servidor\obj\Release\Servidor.exe
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Proyecto\Servidor\obj\Release\Servidor.pdb
